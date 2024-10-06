@@ -1,0 +1,2631 @@
+[
+  {
+    "user_id": "e0fa472b-9738-4814-b366-5e0f6f668547",
+    "country": "France",
+    "age_band": "55+",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "cooking",
+      "music",
+      "literature",
+      "anime",
+      "movies"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.8568946970619489,
+    "total_practice_time": 143,
+    "exercises_completed": 362,
+    "daily_active_days": 15,
+    "weekly_active_days": 6,
+    "total_sessions": 76,
+    "avg_session_duration": 12,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.8417098175214394,
+    "personalized_goals": [
+      "pronunciation",
+      "fluency",
+      "vocabulary"
+    ],
+    "engagement_score": 0.7072959300474474
+  },
+  {
+    "user_id": "495df2d5-03da-4575-8cba-6bf4f7feca23",
+    "country": "France",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "technology",
+      "anime",
+      "movies"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.8225374933670637,
+    "total_practice_time": 1857,
+    "exercises_completed": 380,
+    "daily_active_days": 8,
+    "weekly_active_days": 5,
+    "total_sessions": 64,
+    "avg_session_duration": 16,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.23720588359688244,
+    "personalized_goals": [
+      "vocabulary",
+      "grammar",
+      "fluency"
+    ],
+    "engagement_score": 0.6301169603235908
+  },
+  {
+    "user_id": "197b6cf3-59b6-40da-b859-dfcc93cde919",
+    "country": "Nigeria",
+    "age_band": "45-54",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "music",
+      "sports",
+      "literature"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.33670668672453974,
+    "total_practice_time": 567,
+    "exercises_completed": 154,
+    "daily_active_days": 18,
+    "weekly_active_days": 1,
+    "total_sessions": 16,
+    "avg_session_duration": 13,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.6802951078878999,
+    "personalized_goals": [
+      "pronunciation"
+    ],
+    "engagement_score": 0.4604380171772213
+  },
+  {
+    "user_id": "8c5cca48-d81c-4f67-a35e-22f11fbb000d",
+    "country": "USA",
+    "age_band": "55+",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "movies",
+      "anime"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.06493111995040768,
+    "total_practice_time": 2716,
+    "exercises_completed": 77,
+    "daily_active_days": 4,
+    "weekly_active_days": 1,
+    "total_sessions": 18,
+    "avg_session_duration": 19,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.5930661495226769,
+    "personalized_goals": [
+      "grammar",
+      "vocabulary"
+    ],
+    "engagement_score": 0.8033399020089412
+  },
+  {
+    "user_id": "0ea47e6d-1daf-428a-affe-47a0e4c975f8",
+    "country": "France",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "anime",
+      "music"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.1988689115806649,
+    "total_practice_time": 2057,
+    "exercises_completed": 377,
+    "daily_active_days": 9,
+    "weekly_active_days": 5,
+    "total_sessions": 16,
+    "avg_session_duration": 27,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.8577474638425717,
+    "personalized_goals": [
+      "fluency",
+      "grammar"
+    ],
+    "engagement_score": 0.7970027884206144
+  },
+  {
+    "user_id": "620eef30-6557-4da4-a0ed-3d86747607ef",
+    "country": "Japan",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "movies",
+      "music",
+      "travel",
+      "technology"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.8544388454853444,
+    "total_practice_time": 2971,
+    "exercises_completed": 47,
+    "daily_active_days": 21,
+    "weekly_active_days": 5,
+    "total_sessions": 31,
+    "avg_session_duration": 5,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.14364288170036757,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.648018799797822
+  },
+  {
+    "user_id": "af29a194-1e6d-4d4e-98d7-f861bcf51821",
+    "country": "Brazil",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "sports",
+      "movies",
+      "cooking",
+      "technology"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.2898108327465223,
+    "total_practice_time": 585,
+    "exercises_completed": 208,
+    "daily_active_days": 5,
+    "weekly_active_days": 4,
+    "total_sessions": 45,
+    "avg_session_duration": 6,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.8616879829215638,
+    "personalized_goals": [
+      "fluency",
+      "vocabulary"
+    ],
+    "engagement_score": 0.25133753176441465
+  },
+  {
+    "user_id": "b396311c-c0a5-4cea-9175-e9f1eb3979cc",
+    "country": "Brazil",
+    "age_band": "35-44",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "cooking",
+      "anime",
+      "sports",
+      "travel",
+      "music"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.08975251590788491,
+    "total_practice_time": 1887,
+    "exercises_completed": 174,
+    "daily_active_days": 14,
+    "weekly_active_days": 7,
+    "total_sessions": 60,
+    "avg_session_duration": 23,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.11559273742717456,
+    "personalized_goals": [
+      "vocabulary",
+      "grammar"
+    ],
+    "engagement_score": 0.12099791758142064
+  },
+  {
+    "user_id": "1cbb8c4a-880c-4d09-827b-90cb9e17a48f",
+    "country": "Brazil",
+    "age_band": "35-44",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "travel",
+      "cooking",
+      "movies"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.37628337567941395,
+    "total_practice_time": 1884,
+    "exercises_completed": 527,
+    "daily_active_days": 29,
+    "weekly_active_days": 6,
+    "total_sessions": 46,
+    "avg_session_duration": 27,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.791935305286986,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.5385948939087036
+  },
+  {
+    "user_id": "da1163bf-4547-4ae3-9e13-aebf014d46b8",
+    "country": "USA",
+    "age_band": "55+",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "anime",
+      "movies",
+      "technology"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.9690582869252327,
+    "total_practice_time": 1641,
+    "exercises_completed": 477,
+    "daily_active_days": 18,
+    "weekly_active_days": 6,
+    "total_sessions": 90,
+    "avg_session_duration": 25,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.7190857979509504,
+    "personalized_goals": [
+      "grammar",
+      "pronunciation",
+      "fluency"
+    ],
+    "engagement_score": 0.36395291723925005
+  },
+  {
+    "user_id": "6e43f566-f99a-40dd-a246-4c63ac6ee7af",
+    "country": "Japan",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "literature",
+      "anime"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.14995463671139364,
+    "total_practice_time": 1530,
+    "exercises_completed": 500,
+    "daily_active_days": 29,
+    "weekly_active_days": 7,
+    "total_sessions": 61,
+    "avg_session_duration": 15,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.7202455472283789,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.1327181143037559
+  },
+  {
+    "user_id": "748faaf1-3227-4e09-bf7a-ed2910e64cef",
+    "country": "France",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "movies",
+      "literature",
+      "cooking",
+      "technology"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.7821891069139093,
+    "total_practice_time": 2829,
+    "exercises_completed": 19,
+    "daily_active_days": 10,
+    "weekly_active_days": 4,
+    "total_sessions": 38,
+    "avg_session_duration": 18,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.5711697137599017,
+    "personalized_goals": [
+      "fluency",
+      "pronunciation"
+    ],
+    "engagement_score": 0.9148492235196868
+  },
+  {
+    "user_id": "e8e458cd-3d59-451a-b12b-37015ec6ebdc",
+    "country": "Nigeria",
+    "age_band": "35-44",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "sports",
+      "anime"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.05142545109710894,
+    "total_practice_time": 717,
+    "exercises_completed": 499,
+    "daily_active_days": 28,
+    "weekly_active_days": 7,
+    "total_sessions": 15,
+    "avg_session_duration": 26,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.352014735673591,
+    "personalized_goals": [
+      "grammar",
+      "fluency"
+    ],
+    "engagement_score": 0.19083944468574554
+  },
+  {
+    "user_id": "2820318b-a80d-43f6-974f-bb50c7b2d7c5",
+    "country": "Nigeria",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "music",
+      "anime"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.06476377074529494,
+    "total_practice_time": 2562,
+    "exercises_completed": 418,
+    "daily_active_days": 8,
+    "weekly_active_days": 4,
+    "total_sessions": 15,
+    "avg_session_duration": 27,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.4390226613805511,
+    "personalized_goals": [
+      "vocabulary",
+      "grammar"
+    ],
+    "engagement_score": 0.7241479980966735
+  },
+  {
+    "user_id": "3b217000-6040-4a04-82fb-fcc25a500c34",
+    "country": "China",
+    "age_band": "25-34",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "cooking",
+      "anime"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.4273701943968288,
+    "total_practice_time": 2376,
+    "exercises_completed": 77,
+    "daily_active_days": 27,
+    "weekly_active_days": 0,
+    "total_sessions": 3,
+    "avg_session_duration": 18,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.6772313621616566,
+    "personalized_goals": [
+      "grammar"
+    ],
+    "engagement_score": 0.208878023694675
+  },
+  {
+    "user_id": "3e497037-77e7-4e9f-a782-207a354bf2e6",
+    "country": "France",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "music",
+      "cooking",
+      "anime",
+      "technology",
+      "sports"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.30791523511336616,
+    "total_practice_time": 2452,
+    "exercises_completed": 567,
+    "daily_active_days": 16,
+    "weekly_active_days": 3,
+    "total_sessions": 4,
+    "avg_session_duration": 6,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.6850625544642401,
+    "personalized_goals": [
+      "fluency",
+      "pronunciation"
+    ],
+    "engagement_score": 0.613861506987436
+  },
+  {
+    "user_id": "84449888-fbb9-41b0-ba93-173ebc10006d",
+    "country": "India",
+    "age_band": "35-44",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "music",
+      "anime",
+      "cooking",
+      "sports",
+      "movies"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.43324523298275874,
+    "total_practice_time": 405,
+    "exercises_completed": 286,
+    "daily_active_days": 22,
+    "weekly_active_days": 5,
+    "total_sessions": 34,
+    "avg_session_duration": 19,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.38506088647356906,
+    "personalized_goals": [
+      "fluency",
+      "grammar"
+    ],
+    "engagement_score": 0.42731685996806645
+  },
+  {
+    "user_id": "c856eb54-be06-4f52-8b4f-f2d919864d9f",
+    "country": "Japan",
+    "age_band": "55+",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "cooking",
+      "music",
+      "sports"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.7002427481400544,
+    "total_practice_time": 1579,
+    "exercises_completed": 55,
+    "daily_active_days": 2,
+    "weekly_active_days": 6,
+    "total_sessions": 12,
+    "avg_session_duration": 29,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.9220477400553918,
+    "personalized_goals": [
+      "fluency",
+      "grammar",
+      "pronunciation"
+    ],
+    "engagement_score": 0.4527706800561453
+  },
+  {
+    "user_id": "d87bc389-0117-4fbd-9c1b-28fa01ed166b",
+    "country": "Australia",
+    "age_band": "35-44",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "technology",
+      "cooking",
+      "movies",
+      "travel",
+      "sports"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.5654541453270061,
+    "total_practice_time": 2310,
+    "exercises_completed": 62,
+    "daily_active_days": 28,
+    "weekly_active_days": 3,
+    "total_sessions": 42,
+    "avg_session_duration": 29,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.6960184897034736,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.9446889592284956
+  },
+  {
+    "user_id": "a3091a5c-b1a7-4ed7-b402-1b30804fc0ea",
+    "country": "France",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "movies",
+      "cooking"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.4586251014428071,
+    "total_practice_time": 513,
+    "exercises_completed": 600,
+    "daily_active_days": 6,
+    "weekly_active_days": 3,
+    "total_sessions": 26,
+    "avg_session_duration": 5,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.7247004872161773,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.7854711495431156
+  },
+  {
+    "user_id": "fa3cf658-7230-4c8f-855e-d5f9bd322f7b",
+    "country": "USA",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "movies",
+      "travel"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.9655580290617939,
+    "total_practice_time": 849,
+    "exercises_completed": 587,
+    "daily_active_days": 28,
+    "weekly_active_days": 5,
+    "total_sessions": 88,
+    "avg_session_duration": 13,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.1808187730197161,
+    "personalized_goals": [
+      "vocabulary",
+      "pronunciation",
+      "grammar"
+    ],
+    "engagement_score": 0.9340777346891244
+  },
+  {
+    "user_id": "28b2e70c-7f5b-4e6f-bc8e-0ea1c23f2a6e",
+    "country": "China",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "travel",
+      "technology",
+      "movies",
+      "cooking"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.361646367982253,
+    "total_practice_time": 2855,
+    "exercises_completed": 131,
+    "daily_active_days": 9,
+    "weekly_active_days": 7,
+    "total_sessions": 83,
+    "avg_session_duration": 11,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.43937373962557913,
+    "personalized_goals": [
+      "grammar",
+      "fluency"
+    ],
+    "engagement_score": 0.33292506226470464
+  },
+  {
+    "user_id": "f78faacb-7b2b-4414-aaf2-105bc5a4f7a2",
+    "country": "China",
+    "age_band": "45-54",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "sports",
+      "anime"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.47070398766817323,
+    "total_practice_time": 551,
+    "exercises_completed": 67,
+    "daily_active_days": 13,
+    "weekly_active_days": 4,
+    "total_sessions": 52,
+    "avg_session_duration": 13,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.37957262491266774,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.09171039722098806
+  },
+  {
+    "user_id": "379843ce-991d-44d4-a610-251ad40e7ff7",
+    "country": "India",
+    "age_band": "35-44",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "sports",
+      "cooking"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.9630539467646062,
+    "total_practice_time": 62,
+    "exercises_completed": 49,
+    "daily_active_days": 19,
+    "weekly_active_days": 1,
+    "total_sessions": 48,
+    "avg_session_duration": 14,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.4916728152831146,
+    "personalized_goals": [
+      "grammar",
+      "fluency"
+    ],
+    "engagement_score": 0.5317945134946249
+  },
+  {
+    "user_id": "901d9008-af77-4ffc-9fef-1c908f2a6900",
+    "country": "France",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "travel",
+      "cooking"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.9092699856278916,
+    "total_practice_time": 966,
+    "exercises_completed": 410,
+    "daily_active_days": 0,
+    "weekly_active_days": 1,
+    "total_sessions": 21,
+    "avg_session_duration": 10,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.4394220984566174,
+    "personalized_goals": [
+      "vocabulary",
+      "grammar"
+    ],
+    "engagement_score": 0.7545928011332413
+  },
+  {
+    "user_id": "165a7a9b-6469-4da3-bccd-d8344debba3e",
+    "country": "Australia",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "literature",
+      "cooking",
+      "anime"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.509476853388974,
+    "total_practice_time": 2711,
+    "exercises_completed": 59,
+    "daily_active_days": 10,
+    "weekly_active_days": 6,
+    "total_sessions": 40,
+    "avg_session_duration": 23,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.22142468116846503,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.8756983403126067
+  },
+  {
+    "user_id": "90f5ab90-471d-464a-be32-65789a90e776",
+    "country": "Japan",
+    "age_band": "45-54",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "literature",
+      "movies"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.6926373302255628,
+    "total_practice_time": 622,
+    "exercises_completed": 72,
+    "daily_active_days": 3,
+    "weekly_active_days": 5,
+    "total_sessions": 12,
+    "avg_session_duration": 17,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.3930412024261367,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.15214990459547517
+  },
+  {
+    "user_id": "8eefb91a-8803-44cd-87d5-22786f4d6eb7",
+    "country": "Japan",
+    "age_band": "45-54",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "cooking",
+      "technology",
+      "travel",
+      "anime",
+      "literature"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.020312125448215368,
+    "total_practice_time": 805,
+    "exercises_completed": 102,
+    "daily_active_days": 11,
+    "weekly_active_days": 5,
+    "total_sessions": 40,
+    "avg_session_duration": 23,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.4000052922207069,
+    "personalized_goals": [
+      "vocabulary",
+      "pronunciation"
+    ],
+    "engagement_score": 0.36565576115798826
+  },
+  {
+    "user_id": "fd135440-7767-478b-918c-ba49b5d712d9",
+    "country": "Australia",
+    "age_band": "18-24",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "travel",
+      "literature",
+      "sports",
+      "cooking"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.5187978019581803,
+    "total_practice_time": 1157,
+    "exercises_completed": 3,
+    "daily_active_days": 17,
+    "weekly_active_days": 6,
+    "total_sessions": 69,
+    "avg_session_duration": 24,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.894727421030909,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.0016715330911798443
+  },
+  {
+    "user_id": "2075f893-7973-4a46-9aab-482c827d03c1",
+    "country": "France",
+    "age_band": "55+",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "sports",
+      "literature",
+      "music"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.8451794346332078,
+    "total_practice_time": 1127,
+    "exercises_completed": 77,
+    "daily_active_days": 27,
+    "weekly_active_days": 0,
+    "total_sessions": 25,
+    "avg_session_duration": 23,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.6643390753972042,
+    "personalized_goals": [
+      "fluency",
+      "vocabulary"
+    ],
+    "engagement_score": 0.98883382246317
+  },
+  {
+    "user_id": "88c4b9b4-a51b-4e4a-9055-ec9aa1c02952",
+    "country": "France",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "music",
+      "anime",
+      "cooking"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.05635385716220054,
+    "total_practice_time": 2987,
+    "exercises_completed": 535,
+    "daily_active_days": 19,
+    "weekly_active_days": 3,
+    "total_sessions": 39,
+    "avg_session_duration": 19,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.5418582571788189,
+    "personalized_goals": [
+      "pronunciation",
+      "fluency"
+    ],
+    "engagement_score": 0.1296410988019575
+  },
+  {
+    "user_id": "9db80bb4-3c09-4d69-8446-2f0b7b9580d8",
+    "country": "China",
+    "age_band": "35-44",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "sports",
+      "music",
+      "literature"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.24569170480699343,
+    "total_practice_time": 2867,
+    "exercises_completed": 595,
+    "daily_active_days": 18,
+    "weekly_active_days": 7,
+    "total_sessions": 57,
+    "avg_session_duration": 23,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.15814370808975056,
+    "personalized_goals": [
+      "grammar",
+      "vocabulary"
+    ],
+    "engagement_score": 0.2317369720201673
+  },
+  {
+    "user_id": "87ddc927-185b-4e45-b820-dddbea7e3011",
+    "country": "Japan",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "anime",
+      "technology",
+      "sports",
+      "literature",
+      "music"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.682249683587439,
+    "total_practice_time": 582,
+    "exercises_completed": 147,
+    "daily_active_days": 16,
+    "weekly_active_days": 1,
+    "total_sessions": 39,
+    "avg_session_duration": 7,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.33387249179794076,
+    "personalized_goals": [
+      "pronunciation",
+      "vocabulary",
+      "fluency"
+    ],
+    "engagement_score": 0.27320950052160675
+  },
+  {
+    "user_id": "d3fa76c4-0804-425f-a85a-9fc87ef6d2f8",
+    "country": "Brazil",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "literature",
+      "movies",
+      "technology",
+      "music",
+      "cooking"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.6759217630008238,
+    "total_practice_time": 2125,
+    "exercises_completed": 30,
+    "daily_active_days": 12,
+    "weekly_active_days": 6,
+    "total_sessions": 68,
+    "avg_session_duration": 14,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.9536877732108546,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.7962380951140116
+  },
+  {
+    "user_id": "db6ec663-6e7c-43c4-982e-bcea7361fbad",
+    "country": "Brazil",
+    "age_band": "35-44",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "technology",
+      "music",
+      "travel",
+      "cooking"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.4426896999319976,
+    "total_practice_time": 2075,
+    "exercises_completed": 318,
+    "daily_active_days": 24,
+    "weekly_active_days": 5,
+    "total_sessions": 43,
+    "avg_session_duration": 26,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.22972057454630915,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.3062803086295398
+  },
+  {
+    "user_id": "e22c5a23-107b-49e7-9a84-24518ab21448",
+    "country": "Brazil",
+    "age_band": "25-34",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "sports",
+      "cooking",
+      "anime",
+      "music"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.02492942054218439,
+    "total_practice_time": 2864,
+    "exercises_completed": 525,
+    "daily_active_days": 14,
+    "weekly_active_days": 1,
+    "total_sessions": 50,
+    "avg_session_duration": 18,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.6550042302654514,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.35827928392475605
+  },
+  {
+    "user_id": "eb7ef000-f205-45ac-951b-137553167d3b",
+    "country": "Japan",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "anime",
+      "technology"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.8941008070741441,
+    "total_practice_time": 1649,
+    "exercises_completed": 221,
+    "daily_active_days": 2,
+    "weekly_active_days": 0,
+    "total_sessions": 26,
+    "avg_session_duration": 21,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.11900217851732381,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.32590363376066367
+  },
+  {
+    "user_id": "c8574231-b2e9-4a2b-aacb-925495a8c3de",
+    "country": "USA",
+    "age_band": "18-24",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "technology",
+      "music",
+      "anime"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.7947641329564477,
+    "total_practice_time": 1168,
+    "exercises_completed": 420,
+    "daily_active_days": 14,
+    "weekly_active_days": 7,
+    "total_sessions": 22,
+    "avg_session_duration": 26,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.22600232451823513,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.20738739589061417
+  },
+  {
+    "user_id": "16cfd4f6-ddf5-4873-93a2-38a6dfc2e4d2",
+    "country": "Brazil",
+    "age_band": "35-44",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "sports",
+      "technology"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.24581738816372145,
+    "total_practice_time": 49,
+    "exercises_completed": 530,
+    "daily_active_days": 30,
+    "weekly_active_days": 5,
+    "total_sessions": 68,
+    "avg_session_duration": 30,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.2205603127613141,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.7234766813024353
+  },
+  {
+    "user_id": "83df1dd0-f94d-4349-b13d-4626b5e99102",
+    "country": "Brazil",
+    "age_band": "25-34",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "cooking",
+      "technology",
+      "literature",
+      "travel"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.4655194048980198,
+    "total_practice_time": 1208,
+    "exercises_completed": 189,
+    "daily_active_days": 1,
+    "weekly_active_days": 1,
+    "total_sessions": 81,
+    "avg_session_duration": 15,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.13863766206245828,
+    "personalized_goals": [
+      "pronunciation",
+      "fluency",
+      "vocabulary"
+    ],
+    "engagement_score": 0.02638303754845306
+  },
+  {
+    "user_id": "6e573063-a134-4463-a265-6ae75ffc9695",
+    "country": "India",
+    "age_band": "45-54",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "cooking",
+      "anime",
+      "literature",
+      "movies"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.354393451703365,
+    "total_practice_time": 2415,
+    "exercises_completed": 60,
+    "daily_active_days": 24,
+    "weekly_active_days": 2,
+    "total_sessions": 32,
+    "avg_session_duration": 28,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.8034512319610676,
+    "personalized_goals": [
+      "vocabulary",
+      "pronunciation",
+      "grammar"
+    ],
+    "engagement_score": 0.6481388491558855
+  },
+  {
+    "user_id": "ec001306-f072-4ae2-a1ac-465a164767ab",
+    "country": "Australia",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "anime",
+      "movies",
+      "music"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.1286786158205696,
+    "total_practice_time": 911,
+    "exercises_completed": 106,
+    "daily_active_days": 14,
+    "weekly_active_days": 2,
+    "total_sessions": 8,
+    "avg_session_duration": 22,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.8741067169230866,
+    "personalized_goals": [
+      "grammar",
+      "fluency",
+      "vocabulary"
+    ],
+    "engagement_score": 0.4823798187620102
+  },
+  {
+    "user_id": "e371e9af-4fc2-4bdb-8acf-b579f9127d84",
+    "country": "Australia",
+    "age_band": "18-24",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "cooking",
+      "technology",
+      "movies",
+      "music",
+      "sports"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.6296514607175103,
+    "total_practice_time": 1543,
+    "exercises_completed": 189,
+    "daily_active_days": 24,
+    "weekly_active_days": 7,
+    "total_sessions": 66,
+    "avg_session_duration": 24,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.5582461663276144,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.6242036538191883
+  },
+  {
+    "user_id": "d5649889-6e65-4189-9838-1580869655bd",
+    "country": "Nigeria",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "music",
+      "travel",
+      "movies",
+      "anime"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.42469391689510794,
+    "total_practice_time": 2048,
+    "exercises_completed": 336,
+    "daily_active_days": 12,
+    "weekly_active_days": 5,
+    "total_sessions": 89,
+    "avg_session_duration": 24,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.14669566680426466,
+    "personalized_goals": [
+      "grammar",
+      "vocabulary",
+      "pronunciation"
+    ],
+    "engagement_score": 0.2919815385876282
+  },
+  {
+    "user_id": "17a5b34b-e58d-4527-a82d-f09e9eb0df9e",
+    "country": "USA",
+    "age_band": "45-54",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "cooking",
+      "technology",
+      "travel"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.6161326331741941,
+    "total_practice_time": 2571,
+    "exercises_completed": 102,
+    "daily_active_days": 11,
+    "weekly_active_days": 3,
+    "total_sessions": 84,
+    "avg_session_duration": 28,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.2959871560766621,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.561143335915573
+  },
+  {
+    "user_id": "5a664872-16a4-4f7a-ac98-fa37e3df6908",
+    "country": "India",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "anime",
+      "technology",
+      "literature",
+      "travel",
+      "music"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.8677423484314015,
+    "total_practice_time": 678,
+    "exercises_completed": 317,
+    "daily_active_days": 24,
+    "weekly_active_days": 1,
+    "total_sessions": 36,
+    "avg_session_duration": 5,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.5405311253043044,
+    "personalized_goals": [
+      "grammar",
+      "fluency"
+    ],
+    "engagement_score": 0.793602243470775
+  },
+  {
+    "user_id": "674ce588-26da-428f-b7e4-aca2f7931b0a",
+    "country": "France",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "movies",
+      "cooking",
+      "literature"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.46287151493541323,
+    "total_practice_time": 373,
+    "exercises_completed": 548,
+    "daily_active_days": 16,
+    "weekly_active_days": 5,
+    "total_sessions": 34,
+    "avg_session_duration": 9,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.3103391647866467,
+    "personalized_goals": [
+      "pronunciation",
+      "fluency"
+    ],
+    "engagement_score": 0.24271777255948535
+  },
+  {
+    "user_id": "165cd13c-ab95-48ef-95a0-84ded50d0b09",
+    "country": "India",
+    "age_band": "18-24",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "cooking",
+      "music",
+      "movies"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.36773823659322247,
+    "total_practice_time": 1821,
+    "exercises_completed": 549,
+    "daily_active_days": 19,
+    "weekly_active_days": 7,
+    "total_sessions": 28,
+    "avg_session_duration": 28,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.5951804576997897,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.3097490768019949
+  },
+  {
+    "user_id": "755b632f-9e33-4fc8-b837-8edbbfc4ed9f",
+    "country": "Brazil",
+    "age_band": "18-24",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "movies",
+      "technology"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.050455419230757026,
+    "total_practice_time": 2537,
+    "exercises_completed": 298,
+    "daily_active_days": 30,
+    "weekly_active_days": 5,
+    "total_sessions": 24,
+    "avg_session_duration": 28,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.2560026186370698,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.32744886867890444
+  },
+  {
+    "user_id": "1be8301c-0f86-4c8f-bdc3-a00d7557a45d",
+    "country": "Japan",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "cooking",
+      "anime"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.8364897244397839,
+    "total_practice_time": 2087,
+    "exercises_completed": 414,
+    "daily_active_days": 2,
+    "weekly_active_days": 2,
+    "total_sessions": 25,
+    "avg_session_duration": 29,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.87632590545855,
+    "personalized_goals": [
+      "vocabulary",
+      "grammar"
+    ],
+    "engagement_score": 0.009117571543075687
+  },
+  {
+    "user_id": "ea464f40-40ab-4937-a188-a7f2986e943d",
+    "country": "Nigeria",
+    "age_band": "45-54",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "movies",
+      "sports",
+      "anime"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.34995690621091147,
+    "total_practice_time": 2031,
+    "exercises_completed": 469,
+    "daily_active_days": 20,
+    "weekly_active_days": 0,
+    "total_sessions": 21,
+    "avg_session_duration": 29,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.273679171083447,
+    "personalized_goals": [
+      "fluency",
+      "pronunciation",
+      "grammar"
+    ],
+    "engagement_score": 0.21316561328714778
+  },
+  {
+    "user_id": "49633801-765c-44b4-b564-6a103853023f",
+    "country": "India",
+    "age_band": "35-44",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "literature",
+      "cooking"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.8833703010215066,
+    "total_practice_time": 2005,
+    "exercises_completed": 81,
+    "daily_active_days": 16,
+    "weekly_active_days": 0,
+    "total_sessions": 41,
+    "avg_session_duration": 13,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.4068309110441737,
+    "personalized_goals": [
+      "vocabulary",
+      "fluency",
+      "grammar"
+    ],
+    "engagement_score": 0.3305686439454043
+  },
+  {
+    "user_id": "6f7710c9-acf1-4750-9134-9cc82b87b07d",
+    "country": "Nigeria",
+    "age_band": "55+",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "cooking",
+      "music",
+      "travel"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.5447124613388086,
+    "total_practice_time": 105,
+    "exercises_completed": 217,
+    "daily_active_days": 7,
+    "weekly_active_days": 1,
+    "total_sessions": 56,
+    "avg_session_duration": 17,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.5427826064369865,
+    "personalized_goals": [
+      "fluency",
+      "vocabulary"
+    ],
+    "engagement_score": 0.7802109973335767
+  },
+  {
+    "user_id": "a416aa0d-6e90-4b71-986e-a040c02b6025",
+    "country": "USA",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "literature",
+      "sports"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.9353092425604633,
+    "total_practice_time": 2445,
+    "exercises_completed": 469,
+    "daily_active_days": 5,
+    "weekly_active_days": 4,
+    "total_sessions": 46,
+    "avg_session_duration": 28,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.6045912201717253,
+    "personalized_goals": [
+      "grammar",
+      "vocabulary"
+    ],
+    "engagement_score": 0.362217578747945
+  },
+  {
+    "user_id": "10150a9d-96b6-4d00-a77c-0679b064f50d",
+    "country": "Australia",
+    "age_band": "18-24",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "music",
+      "cooking"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.9936438170662113,
+    "total_practice_time": 2192,
+    "exercises_completed": 33,
+    "daily_active_days": 3,
+    "weekly_active_days": 0,
+    "total_sessions": 81,
+    "avg_session_duration": 15,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.5559811228128237,
+    "personalized_goals": [
+      "vocabulary",
+      "fluency"
+    ],
+    "engagement_score": 0.8433918828517349
+  },
+  {
+    "user_id": "ea1877ff-b11d-4a5e-91a2-807ceea6cfc3",
+    "country": "Japan",
+    "age_band": "45-54",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "music",
+      "travel",
+      "movies",
+      "technology"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.25060281790262906,
+    "total_practice_time": 248,
+    "exercises_completed": 430,
+    "daily_active_days": 9,
+    "weekly_active_days": 7,
+    "total_sessions": 26,
+    "avg_session_duration": 15,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.7182748250622014,
+    "personalized_goals": [
+      "grammar"
+    ],
+    "engagement_score": 0.6710136150229149
+  },
+  {
+    "user_id": "87d26922-3742-47f3-9aa3-d39049b69e8e",
+    "country": "India",
+    "age_band": "55+",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "literature",
+      "travel",
+      "technology"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.10463420706574511,
+    "total_practice_time": 888,
+    "exercises_completed": 287,
+    "daily_active_days": 26,
+    "weekly_active_days": 7,
+    "total_sessions": 64,
+    "avg_session_duration": 8,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.5671248283818578,
+    "personalized_goals": [
+      "fluency",
+      "pronunciation"
+    ],
+    "engagement_score": 0.26601052395631186
+  },
+  {
+    "user_id": "24c11421-4a86-48b8-a043-7e963f84b579",
+    "country": "USA",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "music",
+      "movies",
+      "literature",
+      "sports",
+      "cooking"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.9464544076523578,
+    "total_practice_time": 1395,
+    "exercises_completed": 558,
+    "daily_active_days": 16,
+    "weekly_active_days": 3,
+    "total_sessions": 84,
+    "avg_session_duration": 26,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.3276031637330964,
+    "personalized_goals": [
+      "vocabulary",
+      "pronunciation",
+      "grammar"
+    ],
+    "engagement_score": 0.8664132466002787
+  },
+  {
+    "user_id": "0cf9d6d7-0454-458b-83dc-39cb74971eec",
+    "country": "Brazil",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "music",
+      "travel"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.5122891173365848,
+    "total_practice_time": 127,
+    "exercises_completed": 497,
+    "daily_active_days": 17,
+    "weekly_active_days": 0,
+    "total_sessions": 66,
+    "avg_session_duration": 20,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.9092691802725192,
+    "personalized_goals": [
+      "pronunciation",
+      "vocabulary"
+    ],
+    "engagement_score": 0.8122671427553972
+  },
+  {
+    "user_id": "405c771a-e796-478b-85bb-6c0ccb1965fb",
+    "country": "Australia",
+    "age_band": "35-44",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "anime",
+      "travel",
+      "cooking",
+      "movies"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.01917390169080957,
+    "total_practice_time": 2472,
+    "exercises_completed": 275,
+    "daily_active_days": 10,
+    "weekly_active_days": 7,
+    "total_sessions": 12,
+    "avg_session_duration": 9,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.8088370300824796,
+    "personalized_goals": [
+      "vocabulary",
+      "fluency",
+      "grammar"
+    ],
+    "engagement_score": 0.45395720394280126
+  },
+  {
+    "user_id": "2532fee6-d06c-4c96-a74e-811c97820349",
+    "country": "France",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "music",
+      "sports",
+      "cooking",
+      "movies",
+      "technology"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.6682394808833058,
+    "total_practice_time": 1793,
+    "exercises_completed": 533,
+    "daily_active_days": 9,
+    "weekly_active_days": 5,
+    "total_sessions": 61,
+    "avg_session_duration": 26,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.4245885541265597,
+    "personalized_goals": [
+      "vocabulary",
+      "fluency",
+      "grammar"
+    ],
+    "engagement_score": 0.3243376367837
+  },
+  {
+    "user_id": "0249a8dc-ea1b-495a-9c3e-f967618575c2",
+    "country": "Nigeria",
+    "age_band": "35-44",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "sports",
+      "technology"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.3179626584126498,
+    "total_practice_time": 1208,
+    "exercises_completed": 201,
+    "daily_active_days": 23,
+    "weekly_active_days": 6,
+    "total_sessions": 47,
+    "avg_session_duration": 13,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.2471897690902935,
+    "personalized_goals": [
+      "vocabulary",
+      "fluency",
+      "grammar"
+    ],
+    "engagement_score": 0.570626089662971
+  },
+  {
+    "user_id": "79bb6f20-610b-46e1-805b-937667c44044",
+    "country": "Australia",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "anime",
+      "literature",
+      "technology"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.9954935566245755,
+    "total_practice_time": 1241,
+    "exercises_completed": 392,
+    "daily_active_days": 29,
+    "weekly_active_days": 6,
+    "total_sessions": 31,
+    "avg_session_duration": 28,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.2914522459435335,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.6696303167256452
+  },
+  {
+    "user_id": "33c0a3ea-9165-4e8a-8f89-9256aad752fb",
+    "country": "Brazil",
+    "age_band": "18-24",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "anime",
+      "music",
+      "technology"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.2872243076031167,
+    "total_practice_time": 668,
+    "exercises_completed": 32,
+    "daily_active_days": 19,
+    "weekly_active_days": 0,
+    "total_sessions": 55,
+    "avg_session_duration": 30,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.9507470929296081,
+    "personalized_goals": [
+      "fluency",
+      "pronunciation"
+    ],
+    "engagement_score": 0.24169080406817722
+  },
+  {
+    "user_id": "9964d24a-f6b7-49f2-b487-48af03d1ac52",
+    "country": "China",
+    "age_band": "45-54",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "movies"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.24870942090866055,
+    "total_practice_time": 1991,
+    "exercises_completed": 461,
+    "daily_active_days": 10,
+    "weekly_active_days": 0,
+    "total_sessions": 74,
+    "avg_session_duration": 13,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.4373053816643815,
+    "personalized_goals": [
+      "pronunciation"
+    ],
+    "engagement_score": 0.8025995261053199
+  },
+  {
+    "user_id": "bdd5d995-7472-46cf-ae39-80887820ce6b",
+    "country": "France",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "sports",
+      "anime",
+      "music",
+      "movies",
+      "literature"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.1513542849813735,
+    "total_practice_time": 776,
+    "exercises_completed": 555,
+    "daily_active_days": 22,
+    "weekly_active_days": 5,
+    "total_sessions": 58,
+    "avg_session_duration": 28,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.43749817962466275,
+    "personalized_goals": [
+      "pronunciation",
+      "grammar"
+    ],
+    "engagement_score": 0.1729065226881713
+  },
+  {
+    "user_id": "b09a2e4e-74f0-4fac-958d-c3d4d9d32915",
+    "country": "Nigeria",
+    "age_band": "55+",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "sports",
+      "movies",
+      "anime",
+      "literature",
+      "travel"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.5449766623008288,
+    "total_practice_time": 1418,
+    "exercises_completed": 83,
+    "daily_active_days": 28,
+    "weekly_active_days": 1,
+    "total_sessions": 71,
+    "avg_session_duration": 26,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.33464896245391595,
+    "personalized_goals": [
+      "pronunciation",
+      "fluency",
+      "vocabulary"
+    ],
+    "engagement_score": 0.628474221164955
+  },
+  {
+    "user_id": "568816b0-84f0-4853-9768-088d5596cf8d",
+    "country": "USA",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "sports",
+      "cooking",
+      "travel",
+      "literature",
+      "movies"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.4371537084068521,
+    "total_practice_time": 684,
+    "exercises_completed": 6,
+    "daily_active_days": 20,
+    "weekly_active_days": 2,
+    "total_sessions": 30,
+    "avg_session_duration": 24,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.43226431414208466,
+    "personalized_goals": [
+      "pronunciation"
+    ],
+    "engagement_score": 0.38719747092872026
+  },
+  {
+    "user_id": "62d35245-2075-476a-962f-1ad497676688",
+    "country": "USA",
+    "age_band": "55+",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "music",
+      "movies",
+      "anime",
+      "travel",
+      "literature"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.7676761517570372,
+    "total_practice_time": 997,
+    "exercises_completed": 218,
+    "daily_active_days": 27,
+    "weekly_active_days": 6,
+    "total_sessions": 78,
+    "avg_session_duration": 5,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.13499325098074014,
+    "personalized_goals": [
+      "grammar",
+      "pronunciation",
+      "vocabulary"
+    ],
+    "engagement_score": 0.3852898343182882
+  },
+  {
+    "user_id": "695e4266-7760-42cd-8e93-c385dab62406",
+    "country": "Australia",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "cooking",
+      "music",
+      "movies",
+      "anime",
+      "literature"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.947051980616621,
+    "total_practice_time": 799,
+    "exercises_completed": 527,
+    "daily_active_days": 13,
+    "weekly_active_days": 6,
+    "total_sessions": 57,
+    "avg_session_duration": 28,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.8375180148869321,
+    "personalized_goals": [
+      "grammar",
+      "pronunciation"
+    ],
+    "engagement_score": 0.1828935524704538
+  },
+  {
+    "user_id": "558c5d6e-2a61-4379-893f-96b3f9d5d96b",
+    "country": "USA",
+    "age_band": "18-24",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "travel",
+      "music",
+      "technology",
+      "anime"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.9644411479421073,
+    "total_practice_time": 1867,
+    "exercises_completed": 344,
+    "daily_active_days": 1,
+    "weekly_active_days": 2,
+    "total_sessions": 85,
+    "avg_session_duration": 13,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.9785187883622743,
+    "personalized_goals": [
+      "pronunciation",
+      "fluency"
+    ],
+    "engagement_score": 0.8447688288054669
+  },
+  {
+    "user_id": "a3b6f285-ca58-4daa-b1ee-f5060b75f8fd",
+    "country": "Japan",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "cooking",
+      "literature"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.8266721102532436,
+    "total_practice_time": 1962,
+    "exercises_completed": 198,
+    "daily_active_days": 8,
+    "weekly_active_days": 0,
+    "total_sessions": 39,
+    "avg_session_duration": 28,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.5297717867147618,
+    "personalized_goals": [
+      "pronunciation",
+      "vocabulary"
+    ],
+    "engagement_score": 0.2632567485341393
+  },
+  {
+    "user_id": "96727a73-4aaf-474f-a1a0-8e778c5b2563",
+    "country": "Japan",
+    "age_band": "45-54",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "anime",
+      "cooking",
+      "movies"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.18228534002898455,
+    "total_practice_time": 2227,
+    "exercises_completed": 489,
+    "daily_active_days": 19,
+    "weekly_active_days": 4,
+    "total_sessions": 52,
+    "avg_session_duration": 8,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.25934829316350505,
+    "personalized_goals": [
+      "grammar",
+      "fluency"
+    ],
+    "engagement_score": 0.39747847213877563
+  },
+  {
+    "user_id": "2c85e975-ff96-48ec-8cc1-1b398a1a9736",
+    "country": "India",
+    "age_band": "18-24",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "travel",
+      "technology"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.2498383415341986,
+    "total_practice_time": 916,
+    "exercises_completed": 43,
+    "daily_active_days": 23,
+    "weekly_active_days": 5,
+    "total_sessions": 61,
+    "avg_session_duration": 29,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.8492286031145498,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.7127126533499711
+  },
+  {
+    "user_id": "d669b305-bbe3-4210-9859-639a2a558b61",
+    "country": "China",
+    "age_band": "45-54",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "music",
+      "cooking",
+      "sports",
+      "anime",
+      "travel"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.2655545748305601,
+    "total_practice_time": 2479,
+    "exercises_completed": 331,
+    "daily_active_days": 29,
+    "weekly_active_days": 1,
+    "total_sessions": 42,
+    "avg_session_duration": 8,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.2168427270690866,
+    "personalized_goals": [
+      "fluency",
+      "pronunciation",
+      "vocabulary"
+    ],
+    "engagement_score": 0.4915217982142597
+  },
+  {
+    "user_id": "84877b20-d038-44d6-9d49-323c5f8c8025",
+    "country": "India",
+    "age_band": "18-24",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "anime",
+      "movies"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.48844046007092456,
+    "total_practice_time": 106,
+    "exercises_completed": 215,
+    "daily_active_days": 8,
+    "weekly_active_days": 4,
+    "total_sessions": 80,
+    "avg_session_duration": 23,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.4898504785583676,
+    "personalized_goals": [
+      "pronunciation",
+      "grammar",
+      "vocabulary"
+    ],
+    "engagement_score": 0.5023084129066524
+  },
+  {
+    "user_id": "24522099-4b80-4911-ac9e-75e3d3ee3d15",
+    "country": "India",
+    "age_band": "35-44",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "music",
+      "literature",
+      "technology",
+      "sports"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.7643749698069103,
+    "total_practice_time": 2292,
+    "exercises_completed": 49,
+    "daily_active_days": 21,
+    "weekly_active_days": 2,
+    "total_sessions": 16,
+    "avg_session_duration": 28,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.31027239119026295,
+    "personalized_goals": [
+      "fluency"
+    ],
+    "engagement_score": 0.6610049274032774
+  },
+  {
+    "user_id": "ff19bc45-c269-4ed5-9a67-a7ca082ad8f5",
+    "country": "India",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "movies",
+      "sports",
+      "technology",
+      "literature",
+      "travel"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.9933988610012742,
+    "total_practice_time": 533,
+    "exercises_completed": 196,
+    "daily_active_days": 11,
+    "weekly_active_days": 2,
+    "total_sessions": 52,
+    "avg_session_duration": 7,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.3510616801944013,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.7792420970165127
+  },
+  {
+    "user_id": "68136b44-4046-4e18-b945-ca85ffca10d1",
+    "country": "Nigeria",
+    "age_band": "45-54",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "cooking",
+      "sports",
+      "travel"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.8664084500239188,
+    "total_practice_time": 1105,
+    "exercises_completed": 3,
+    "daily_active_days": 23,
+    "weekly_active_days": 0,
+    "total_sessions": 10,
+    "avg_session_duration": 13,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.3222201408191553,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.8676727852568402
+  },
+  {
+    "user_id": "8e69c008-2414-43a3-9d4d-191c32753f72",
+    "country": "France",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "music",
+      "literature"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.030122343373872873,
+    "total_practice_time": 776,
+    "exercises_completed": 38,
+    "daily_active_days": 0,
+    "weekly_active_days": 3,
+    "total_sessions": 4,
+    "avg_session_duration": 10,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.33782675006430557,
+    "personalized_goals": [
+      "grammar",
+      "fluency"
+    ],
+    "engagement_score": 0.8785863566097926
+  },
+  {
+    "user_id": "cf212359-9366-4746-9c77-20c2c19f7e70",
+    "country": "Nigeria",
+    "age_band": "55+",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "travel",
+      "technology",
+      "cooking",
+      "anime"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.7008369770606017,
+    "total_practice_time": 2988,
+    "exercises_completed": 225,
+    "daily_active_days": 18,
+    "weekly_active_days": 7,
+    "total_sessions": 41,
+    "avg_session_duration": 16,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.8385079764069095,
+    "personalized_goals": [
+      "pronunciation"
+    ],
+    "engagement_score": 0.7661827912287031
+  },
+  {
+    "user_id": "409853c4-abe8-49e9-b8ee-9472313482c1",
+    "country": "Japan",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "anime",
+      "literature",
+      "music"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.09891044422069539,
+    "total_practice_time": 890,
+    "exercises_completed": 161,
+    "daily_active_days": 30,
+    "weekly_active_days": 5,
+    "total_sessions": 49,
+    "avg_session_duration": 25,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.36892580201459724,
+    "personalized_goals": [
+      "grammar"
+    ],
+    "engagement_score": 0.8460685873061872
+  },
+  {
+    "user_id": "0b9e9980-065a-47d6-a67f-70ce6c07084c",
+    "country": "Brazil",
+    "age_band": "25-34",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "sports",
+      "music",
+      "cooking"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.08758915207464246,
+    "total_practice_time": 1573,
+    "exercises_completed": 389,
+    "daily_active_days": 19,
+    "weekly_active_days": 1,
+    "total_sessions": 5,
+    "avg_session_duration": 7,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.5341508200408585,
+    "personalized_goals": [
+      "pronunciation"
+    ],
+    "engagement_score": 0.6270227828606715
+  },
+  {
+    "user_id": "96768793-360e-493f-a05e-9a862cb03ae5",
+    "country": "France",
+    "age_band": "35-44",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "movies",
+      "anime",
+      "music",
+      "travel",
+      "sports"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.16297495239742343,
+    "total_practice_time": 1868,
+    "exercises_completed": 105,
+    "daily_active_days": 11,
+    "weekly_active_days": 3,
+    "total_sessions": 6,
+    "avg_session_duration": 8,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.38018963902531233,
+    "personalized_goals": [
+      "vocabulary",
+      "pronunciation"
+    ],
+    "engagement_score": 0.15395732813927632
+  },
+  {
+    "user_id": "9222cb65-f7ce-4c2e-a523-00a83081c05a",
+    "country": "France",
+    "age_band": "45-54",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "sports",
+      "technology",
+      "movies",
+      "travel"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.9291862312198648,
+    "total_practice_time": 2061,
+    "exercises_completed": 355,
+    "daily_active_days": 20,
+    "weekly_active_days": 3,
+    "total_sessions": 33,
+    "avg_session_duration": 13,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.8714425257544646,
+    "personalized_goals": [
+      "grammar",
+      "pronunciation"
+    ],
+    "engagement_score": 0.059894363606628254
+  },
+  {
+    "user_id": "5b9e5dbd-7ff6-4cd2-951a-66bad4330bed",
+    "country": "USA",
+    "age_band": "45-54",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "cooking",
+      "movies",
+      "technology"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.5756697653351727,
+    "total_practice_time": 2066,
+    "exercises_completed": 259,
+    "daily_active_days": 18,
+    "weekly_active_days": 7,
+    "total_sessions": 10,
+    "avg_session_duration": 21,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.9552071589342677,
+    "personalized_goals": [
+      "vocabulary",
+      "fluency"
+    ],
+    "engagement_score": 0.23583910518808948
+  },
+  {
+    "user_id": "93133892-8596-4c92-aae4-bbd347f0ca17",
+    "country": "Nigeria",
+    "age_band": "45-54",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "anime",
+      "sports",
+      "travel",
+      "literature"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.16521218201708032,
+    "total_practice_time": 321,
+    "exercises_completed": 356,
+    "daily_active_days": 28,
+    "weekly_active_days": 2,
+    "total_sessions": 10,
+    "avg_session_duration": 22,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.591172962938304,
+    "personalized_goals": [
+      "pronunciation",
+      "fluency"
+    ],
+    "engagement_score": 0.7398103759552728
+  },
+  {
+    "user_id": "6dd1d828-7d3c-4d0b-a171-0d5bf8e353a5",
+    "country": "Nigeria",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "travel",
+      "cooking"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.2129546099404941,
+    "total_practice_time": 1405,
+    "exercises_completed": 503,
+    "daily_active_days": 18,
+    "weekly_active_days": 3,
+    "total_sessions": 11,
+    "avg_session_duration": 12,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.12382916802342671,
+    "personalized_goals": [
+      "vocabulary",
+      "pronunciation"
+    ],
+    "engagement_score": 0.6590594276459683
+  },
+  {
+    "user_id": "c7f55850-4010-431c-b06a-5ae61c953c54",
+    "country": "Australia",
+    "age_band": "45-54",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "music",
+      "sports",
+      "literature"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.6637179544269989,
+    "total_practice_time": 2141,
+    "exercises_completed": 228,
+    "daily_active_days": 16,
+    "weekly_active_days": 1,
+    "total_sessions": 61,
+    "avg_session_duration": 13,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.6559255109482618,
+    "personalized_goals": [
+      "pronunciation",
+      "grammar"
+    ],
+    "engagement_score": 0.6087405530093389
+  },
+  {
+    "user_id": "af45a83c-5582-4552-8645-e80d247d8691",
+    "country": "France",
+    "age_band": "55+",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "technology",
+      "music"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.46012483965413287,
+    "total_practice_time": 744,
+    "exercises_completed": 60,
+    "daily_active_days": 14,
+    "weekly_active_days": 5,
+    "total_sessions": 90,
+    "avg_session_duration": 21,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.11207299942688301,
+    "personalized_goals": [
+      "vocabulary",
+      "pronunciation",
+      "fluency"
+    ],
+    "engagement_score": 0.11813311439798424
+  },
+  {
+    "user_id": "c8b67b98-a2d2-4faf-a8c5-0620a37f5888",
+    "country": "China",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "cooking",
+      "anime",
+      "literature"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.6149886805931384,
+    "total_practice_time": 1204,
+    "exercises_completed": 84,
+    "daily_active_days": 8,
+    "weekly_active_days": 0,
+    "total_sessions": 26,
+    "avg_session_duration": 15,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.4014683404652971,
+    "personalized_goals": [
+      "vocabulary",
+      "pronunciation"
+    ],
+    "engagement_score": 0.8619561817447677
+  },
+  {
+    "user_id": "32576f28-e060-47d7-90dc-e1ebef2eb8b9",
+    "country": "India",
+    "age_band": "55+",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "music",
+      "sports"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.3740594019492104,
+    "total_practice_time": 593,
+    "exercises_completed": 480,
+    "daily_active_days": 30,
+    "weekly_active_days": 7,
+    "total_sessions": 24,
+    "avg_session_duration": 30,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.22621452825574478,
+    "personalized_goals": [
+      "vocabulary"
+    ],
+    "engagement_score": 0.6252460756670344
+  },
+  {
+    "user_id": "b26001ba-645d-4bab-8e27-a4f43c8630a0",
+    "country": "India",
+    "age_band": "18-24",
+    "proficiency_level": "Beginner",
+    "interests": [
+      "movies",
+      "travel",
+      "sports",
+      "anime"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.017043043845288097,
+    "total_practice_time": 2442,
+    "exercises_completed": 183,
+    "daily_active_days": 9,
+    "weekly_active_days": 7,
+    "total_sessions": 31,
+    "avg_session_duration": 20,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.41355938934491443,
+    "personalized_goals": [
+      "vocabulary",
+      "grammar",
+      "fluency"
+    ],
+    "engagement_score": 0.9940167491638696
+  },
+  {
+    "user_id": "2fc6eac7-8d1e-4f49-841f-8fe8bd17f0f1",
+    "country": "USA",
+    "age_band": "45-54",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "anime"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.5491835800564059,
+    "total_practice_time": 331,
+    "exercises_completed": 412,
+    "daily_active_days": 17,
+    "weekly_active_days": 1,
+    "total_sessions": 52,
+    "avg_session_duration": 13,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.754577050740054,
+    "personalized_goals": [
+      "fluency",
+      "pronunciation",
+      "vocabulary"
+    ],
+    "engagement_score": 0.6675932596647867
+  },
+  {
+    "user_id": "eae7a990-22c7-4c1e-ac00-66c65aa70299",
+    "country": "Australia",
+    "age_band": "25-34",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "music",
+      "literature",
+      "movies",
+      "cooking"
+    ],
+    "cefr_level": "C1",
+    "overall_progress": 0.3267978774150443,
+    "total_practice_time": 8,
+    "exercises_completed": 346,
+    "daily_active_days": 2,
+    "weekly_active_days": 7,
+    "total_sessions": 20,
+    "avg_session_duration": 22,
+    "current_focus": "fluency",
+    "adaptive_difficulty": 0.8947978975213426,
+    "personalized_goals": [
+      "grammar",
+      "pronunciation"
+    ],
+    "engagement_score": 0.2701459525438068
+  },
+  {
+    "user_id": "4fd6aae7-8f9b-4774-ba65-3a2b7c456f42",
+    "country": "Japan",
+    "age_band": "18-24",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "technology",
+      "travel",
+      "sports"
+    ],
+    "cefr_level": "C2",
+    "overall_progress": 0.5296486000790205,
+    "total_practice_time": 1001,
+    "exercises_completed": 8,
+    "daily_active_days": 15,
+    "weekly_active_days": 3,
+    "total_sessions": 16,
+    "avg_session_duration": 9,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.2024030552298555,
+    "personalized_goals": [
+      "grammar",
+      "fluency",
+      "pronunciation"
+    ],
+    "engagement_score": 0.4901884968049821
+  },
+  {
+    "user_id": "608c8f4c-32fc-4b6e-8f98-9e3fa3ef4891",
+    "country": "China",
+    "age_band": "25-34",
+    "proficiency_level": "Advanced",
+    "interests": [
+      "literature",
+      "music",
+      "movies",
+      "technology"
+    ],
+    "cefr_level": "A1",
+    "overall_progress": 0.294582758293392,
+    "total_practice_time": 1478,
+    "exercises_completed": 65,
+    "daily_active_days": 19,
+    "weekly_active_days": 6,
+    "total_sessions": 11,
+    "avg_session_duration": 24,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.6125604014398358,
+    "personalized_goals": [
+      "fluency",
+      "vocabulary",
+      "grammar"
+    ],
+    "engagement_score": 0.03975159349975366
+  },
+  {
+    "user_id": "e6523d35-7cba-4b44-8d4e-59001c997890",
+    "country": "Australia",
+    "age_band": "55+",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "music",
+      "literature",
+      "travel",
+      "cooking"
+    ],
+    "cefr_level": "B2",
+    "overall_progress": 0.545909028542114,
+    "total_practice_time": 553,
+    "exercises_completed": 289,
+    "daily_active_days": 3,
+    "weekly_active_days": 3,
+    "total_sessions": 74,
+    "avg_session_duration": 14,
+    "current_focus": "grammar",
+    "adaptive_difficulty": 0.7557029598228839,
+    "personalized_goals": [
+      "pronunciation",
+      "vocabulary",
+      "fluency"
+    ],
+    "engagement_score": 0.8981283886275347
+  },
+  {
+    "user_id": "acaf38f3-f37d-40cb-90d8-777bf07e2345",
+    "country": "Japan",
+    "age_band": "35-44",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "travel",
+      "music"
+    ],
+    "cefr_level": "A2",
+    "overall_progress": 0.5705067535756586,
+    "total_practice_time": 2541,
+    "exercises_completed": 543,
+    "daily_active_days": 9,
+    "weekly_active_days": 1,
+    "total_sessions": 83,
+    "avg_session_duration": 16,
+    "current_focus": "pronunciation",
+    "adaptive_difficulty": 0.3036164574457093,
+    "personalized_goals": [
+      "vocabulary",
+      "grammar"
+    ],
+    "engagement_score": 0.717308554976254
+  },
+  {
+    "user_id": "1c4a0059-ea11-4ebd-ad34-bc159a24ddd1",
+    "country": "India",
+    "age_band": "35-44",
+    "proficiency_level": "Intermediate",
+    "interests": [
+      "travel",
+      "sports"
+    ],
+    "cefr_level": "B1",
+    "overall_progress": 0.6855506416741276,
+    "total_practice_time": 323,
+    "exercises_completed": 213,
+    "daily_active_days": 7,
+    "weekly_active_days": 6,
+    "total_sessions": 17,
+    "avg_session_duration": 28,
+    "current_focus": "vocabulary",
+    "adaptive_difficulty": 0.5830058825854808,
+    "personalized_goals": [
+      "grammar",
+      "pronunciation",
+      "vocabulary"
+    ],
+    "engagement_score": 0.8753543052802367
+  }
+]

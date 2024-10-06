@@ -1,0 +1,990 @@
+[
+  {
+    "user_id": "e0fa472b-9738-4814-b366-5e0f6f668547",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage"
+    ],
+    "vocab_improvement": 0.066282096783043,
+    "fluency_trend": 0.020405328822875865,
+    "engagement_score": 0.53021159252022
+  },
+  {
+    "user_id": "495df2d5-03da-4575-8cba-6bf4f7feca23",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": -0.037971566385336136,
+    "fluency_trend": 0.19019741649731228,
+    "engagement_score": 0.4528125522586598
+  },
+  {
+    "user_id": "197b6cf3-59b6-40da-b859-dfcc93cde919",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.14064308209552687,
+    "fluency_trend": -0.09119276630602126,
+    "engagement_score": 0.8656704444492945
+  },
+  {
+    "user_id": "8c5cca48-d81c-4f67-a35e-22f11fbb000d",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.10904368309764503,
+    "fluency_trend": -0.06628750100966155,
+    "engagement_score": 0.8099309271032893
+  },
+  {
+    "user_id": "0ea47e6d-1daf-428a-affe-47a0e4c975f8",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.1435570260613998,
+    "fluency_trend": -0.022981936619131046,
+    "engagement_score": 0.4616399137110052
+  },
+  {
+    "user_id": "620eef30-6557-4da4-a0ed-3d86747607ef",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage"
+    ],
+    "vocab_improvement": -0.022169175561603555,
+    "fluency_trend": -0.021207644206332837,
+    "engagement_score": 0.9172626859475265
+  },
+  {
+    "user_id": "af29a194-1e6d-4d4e-98d7-f861bcf51821",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.028340644489735806,
+    "fluency_trend": 0.03863441024369893,
+    "engagement_score": 0.3167836049043371
+  },
+  {
+    "user_id": "b396311c-c0a5-4cea-9175-e9f1eb3979cc",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage"
+    ],
+    "vocab_improvement": -0.006102587873277679,
+    "fluency_trend": -0.01839300356655349,
+    "engagement_score": 0.08517888937083684
+  },
+  {
+    "user_id": "1cbb8c4a-880c-4d09-827b-90cb9e17a48f",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.07816002685362711,
+    "fluency_trend": 0.11165117717648232,
+    "engagement_score": 0.8771600553165343
+  },
+  {
+    "user_id": "da1163bf-4547-4ae3-9e13-aebf014d46b8",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.1497661861754148,
+    "fluency_trend": 0.10901637321897048,
+    "engagement_score": 0.13864513660741773
+  },
+  {
+    "user_id": "6e43f566-f99a-40dd-a246-4c63ac6ee7af",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.06610798995416883,
+    "fluency_trend": 0.04711385165078144,
+    "engagement_score": 0.5454240581517918
+  },
+  {
+    "user_id": "748faaf1-3227-4e09-bf7a-ed2910e64cef",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.05525274745444769,
+    "fluency_trend": 0.18790794723600804,
+    "engagement_score": 0.7729072480130874
+  },
+  {
+    "user_id": "e8e458cd-3d59-451a-b12b-37015ec6ebdc",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.1984174454946214,
+    "fluency_trend": -0.07318838712200412,
+    "engagement_score": 0.9721862422625605
+  },
+  {
+    "user_id": "2820318b-a80d-43f6-974f-bb50c7b2d7c5",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.08312887940329494,
+    "fluency_trend": 0.17098464270151661,
+    "engagement_score": 0.29359009482574294
+  },
+  {
+    "user_id": "3b217000-6040-4a04-82fb-fcc25a500c34",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.009802410476619089,
+    "fluency_trend": 0.15769937931392378,
+    "engagement_score": 0.502306236477159
+  },
+  {
+    "user_id": "3e497037-77e7-4e9f-a782-207a354bf2e6",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": -0.0370810031594532,
+    "fluency_trend": 0.07515236182155319,
+    "engagement_score": 0.2827415587942115
+  },
+  {
+    "user_id": "84449888-fbb9-41b0-ba93-173ebc10006d",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.07941271462386823,
+    "fluency_trend": -0.03371976000241739,
+    "engagement_score": 0.36205821350986067
+  },
+  {
+    "user_id": "c856eb54-be06-4f52-8b4f-f2d919864d9f",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.06653385599283929,
+    "fluency_trend": 0.03347429972304586,
+    "engagement_score": 0.8850002630877762
+  },
+  {
+    "user_id": "d87bc389-0117-4fbd-9c1b-28fa01ed166b",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.1789301880063515,
+    "fluency_trend": 0.07964255859415242,
+    "engagement_score": 0.2652115909208451
+  },
+  {
+    "user_id": "a3091a5c-b1a7-4ed7-b402-1b30804fc0ea",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": -0.06941960109219344,
+    "fluency_trend": 0.18586920387631564,
+    "engagement_score": 0.669187010015394
+  },
+  {
+    "user_id": "fa3cf658-7230-4c8f-855e-d5f9bd322f7b",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": -0.06892676753748124,
+    "fluency_trend": 0.177787217012476,
+    "engagement_score": 0.5987921686742501
+  },
+  {
+    "user_id": "28b2e70c-7f5b-4e6f-bc8e-0ea1c23f2a6e",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.03142760287084792,
+    "fluency_trend": -0.03322687454541448,
+    "engagement_score": 0.23061427454097527
+  },
+  {
+    "user_id": "f78faacb-7b2b-4414-aaf2-105bc5a4f7a2",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": -0.09334334650676118,
+    "fluency_trend": -0.09663775078752394,
+    "engagement_score": 0.7270135185679127
+  },
+  {
+    "user_id": "379843ce-991d-44d4-a610-251ad40e7ff7",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage"
+    ],
+    "vocab_improvement": -0.063613724968749,
+    "fluency_trend": -0.05010716034940783,
+    "engagement_score": 0.3645409302039466
+  },
+  {
+    "user_id": "901d9008-af77-4ffc-9fef-1c908f2a6900",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.013663972247654449,
+    "fluency_trend": -0.015320127926867752,
+    "engagement_score": 0.43486180132063745
+  },
+  {
+    "user_id": "165a7a9b-6469-4da3-bccd-d8344debba3e",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage"
+    ],
+    "vocab_improvement": 0.13597579706011145,
+    "fluency_trend": 0.11608372564037711,
+    "engagement_score": 0.20236955082222707
+  },
+  {
+    "user_id": "90f5ab90-471d-464a-be32-65789a90e776",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage",
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.1430746523502863,
+    "fluency_trend": 0.05988399551791149,
+    "engagement_score": 0.9976023372655113
+  },
+  {
+    "user_id": "8eefb91a-8803-44cd-87d5-22786f4d6eb7",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.13041159187526163,
+    "fluency_trend": -0.08773118284408817,
+    "engagement_score": 0.013408806060829614
+  },
+  {
+    "user_id": "fd135440-7767-478b-918c-ba49b5d712d9",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.006927472887086131,
+    "fluency_trend": 0.0882272614438751,
+    "engagement_score": 0.6438148196109015
+  },
+  {
+    "user_id": "2075f893-7973-4a46-9aab-482c827d03c1",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.13635561949340624,
+    "fluency_trend": 0.09181279530486025,
+    "engagement_score": 0.5243763012105489
+  },
+  {
+    "user_id": "88c4b9b4-a51b-4e4a-9055-ec9aa1c02952",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.1590673701802662,
+    "fluency_trend": -0.0792384139869427,
+    "engagement_score": 0.01686762856213808
+  },
+  {
+    "user_id": "9db80bb4-3c09-4d69-8446-2f0b7b9580d8",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.09149275390995637,
+    "fluency_trend": 0.09118987699363673,
+    "engagement_score": 0.19490752890664176
+  },
+  {
+    "user_id": "87ddc927-185b-4e45-b820-dddbea7e3011",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.03345939863974601,
+    "fluency_trend": -0.0411700823764668,
+    "engagement_score": 0.6696856920418112
+  },
+  {
+    "user_id": "d3fa76c4-0804-425f-a85a-9fc87ef6d2f8",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.14006852191441804,
+    "fluency_trend": -0.05682905972836857,
+    "engagement_score": 0.2552516054605365
+  },
+  {
+    "user_id": "db6ec663-6e7c-43c4-982e-bcea7361fbad",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage"
+    ],
+    "vocab_improvement": 0.020203130460243163,
+    "fluency_trend": 0.18343882042807494,
+    "engagement_score": 0.4546447237841037
+  },
+  {
+    "user_id": "e22c5a23-107b-49e7-9a84-24518ab21448",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.0866255474035923,
+    "fluency_trend": 0.097856150883942,
+    "engagement_score": 0.6116805932840614
+  },
+  {
+    "user_id": "eb7ef000-f205-45ac-951b-137553167d3b",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage"
+    ],
+    "vocab_improvement": 0.16024747460941688,
+    "fluency_trend": -0.03253549088874352,
+    "engagement_score": 0.44545479017269285
+  },
+  {
+    "user_id": "c8574231-b2e9-4a2b-aacb-925495a8c3de",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage"
+    ],
+    "vocab_improvement": -0.00909778290452927,
+    "fluency_trend": 0.00311817709593791,
+    "engagement_score": 0.8582121729267882
+  },
+  {
+    "user_id": "16cfd4f6-ddf5-4873-93a2-38a6dfc2e4d2",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.0845992045823521,
+    "fluency_trend": 0.07222835693318697,
+    "engagement_score": 0.7125854340293366
+  },
+  {
+    "user_id": "83df1dd0-f94d-4349-b13d-4626b5e99102",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.15074631623501686,
+    "fluency_trend": 0.0883635625324366,
+    "engagement_score": 0.4373494608279811
+  },
+  {
+    "user_id": "6e573063-a134-4463-a265-6ae75ffc9695",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.18753512318833745,
+    "fluency_trend": 0.005231289409429046,
+    "engagement_score": 0.866641966168621
+  },
+  {
+    "user_id": "ec001306-f072-4ae2-a1ac-465a164767ab",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": -0.006179486336011383,
+    "fluency_trend": 0.11966882116866931,
+    "engagement_score": 0.7002624159456958
+  },
+  {
+    "user_id": "e371e9af-4fc2-4bdb-8acf-b579f9127d84",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.12001858744001259,
+    "fluency_trend": 0.19032502541318777,
+    "engagement_score": 0.5326661241238685
+  },
+  {
+    "user_id": "d5649889-6e65-4189-9838-1580869655bd",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "tense_usage"
+    ],
+    "vocab_improvement": -0.011385209154454581,
+    "fluency_trend": 0.10966717325800038,
+    "engagement_score": 0.15081979106040866
+  },
+  {
+    "user_id": "17a5b34b-e58d-4527-a82d-f09e9eb0df9e",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": -0.03636874207024325,
+    "fluency_trend": -0.041931488863212414,
+    "engagement_score": 0.9042330943088274
+  },
+  {
+    "user_id": "5a664872-16a4-4f7a-ac98-fa37e3df6908",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": -0.05719685323406123,
+    "fluency_trend": 0.1651215698212897,
+    "engagement_score": 0.7411711141534936
+  },
+  {
+    "user_id": "674ce588-26da-428f-b7e4-aca2f7931b0a",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.0719335256455749,
+    "fluency_trend": 0.19927006561453367,
+    "engagement_score": 0.2321422949711942
+  },
+  {
+    "user_id": "165cd13c-ab95-48ef-95a0-84ded50d0b09",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.11642352367871389,
+    "fluency_trend": 0.0009698312872078035,
+    "engagement_score": 0.48554069250737286
+  },
+  {
+    "user_id": "755b632f-9e33-4fc8-b837-8edbbfc4ed9f",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.03273963371410801,
+    "fluency_trend": -0.0690174736685204,
+    "engagement_score": 0.5923851305213675
+  },
+  {
+    "user_id": "1be8301c-0f86-4c8f-bdc3-a00d7557a45d",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": -0.002023692680513098,
+    "fluency_trend": 0.1928473852776705,
+    "engagement_score": 0.36788098711168193
+  },
+  {
+    "user_id": "ea464f40-40ab-4937-a188-a7f2986e943d",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.04365527640894526,
+    "fluency_trend": 0.060214672045574374,
+    "engagement_score": 0.24830810489394983
+  },
+  {
+    "user_id": "49633801-765c-44b4-b564-6a103853023f",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.04080200980465601,
+    "fluency_trend": 0.09417294906481122,
+    "engagement_score": 0.8714850620900862
+  },
+  {
+    "user_id": "6f7710c9-acf1-4750-9134-9cc82b87b07d",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.13975285110903737,
+    "fluency_trend": -0.010713252078910565,
+    "engagement_score": 0.08744658081145185
+  },
+  {
+    "user_id": "a416aa0d-6e90-4b71-986e-a040c02b6025",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.06802134944800778,
+    "fluency_trend": 0.07398576832488366,
+    "engagement_score": 0.16232000043909345
+  },
+  {
+    "user_id": "10150a9d-96b6-4d00-a77c-0679b064f50d",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": -0.00486919212161345,
+    "fluency_trend": 0.08565288988408723,
+    "engagement_score": 0.052125193723499
+  },
+  {
+    "user_id": "ea1877ff-b11d-4a5e-91a2-807ceea6cfc3",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.09275364299534869,
+    "fluency_trend": 0.01950958902378941,
+    "engagement_score": 0.5386210514289395
+  },
+  {
+    "user_id": "87d26922-3742-47f3-9aa3-d39049b69e8e",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage"
+    ],
+    "vocab_improvement": -0.019016287098550827,
+    "fluency_trend": 0.16963234245742667,
+    "engagement_score": 0.8615884453693339
+  },
+  {
+    "user_id": "24c11421-4a86-48b8-a043-7e963f84b579",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.047533068995747746,
+    "fluency_trend": 0.16124945815683392,
+    "engagement_score": 0.31895539576712184
+  },
+  {
+    "user_id": "0cf9d6d7-0454-458b-83dc-39cb74971eec",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": -0.08625122152648945,
+    "fluency_trend": -0.06892862418751719,
+    "engagement_score": 0.99964452594978
+  },
+  {
+    "user_id": "405c771a-e796-478b-85bb-6c0ccb1965fb",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.09343980512049607,
+    "fluency_trend": 0.11142305633495642,
+    "engagement_score": 0.30868554733820974
+  },
+  {
+    "user_id": "2532fee6-d06c-4c96-a74e-811c97820349",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.11656941730895021,
+    "fluency_trend": -0.0965566734569109,
+    "engagement_score": 0.2950939713439318
+  },
+  {
+    "user_id": "0249a8dc-ea1b-495a-9c3e-f967618575c2",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "preposition_usage"
+    ],
+    "vocab_improvement": -0.06124956666169593,
+    "fluency_trend": 0.007463612647024637,
+    "engagement_score": 0.299955045846912
+  },
+  {
+    "user_id": "79bb6f20-610b-46e1-805b-937667c44044",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": -0.08447756921183333,
+    "fluency_trend": 0.1821240255757405,
+    "engagement_score": 0.2978766777868932
+  },
+  {
+    "user_id": "33c0a3ea-9165-4e8a-8f89-9256aad752fb",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.11368238958639224,
+    "fluency_trend": -0.08074612305755298,
+    "engagement_score": 0.40238047706716873
+  },
+  {
+    "user_id": "9964d24a-f6b7-49f2-b487-48af03d1ac52",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.19932874252836,
+    "fluency_trend": 0.08874491731626022,
+    "engagement_score": 0.5149005749029273
+  },
+  {
+    "user_id": "bdd5d995-7472-46cf-ae39-80887820ce6b",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.032333581588672694,
+    "fluency_trend": -0.08389533769374648,
+    "engagement_score": 0.6009521093412574
+  },
+  {
+    "user_id": "b09a2e4e-74f0-4fac-958d-c3d4d9d32915",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.08931557059979015,
+    "fluency_trend": 0.17326374358575417,
+    "engagement_score": 0.565978836124847
+  },
+  {
+    "user_id": "568816b0-84f0-4853-9768-088d5596cf8d",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.07244418630628374,
+    "fluency_trend": 0.006247152227807903,
+    "engagement_score": 0.8373474631287887
+  },
+  {
+    "user_id": "62d35245-2075-476a-962f-1ad497676688",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.15527268564960825,
+    "fluency_trend": -0.08261597318824157,
+    "engagement_score": 0.46199132612996374
+  },
+  {
+    "user_id": "695e4266-7760-42cd-8e93-c385dab62406",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": -0.05265344325934716,
+    "fluency_trend": 0.18099118118997395,
+    "engagement_score": 0.4733926771072887
+  },
+  {
+    "user_id": "558c5d6e-2a61-4379-893f-96b3f9d5d96b",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.1759908122922438,
+    "fluency_trend": 0.013619897709289425,
+    "engagement_score": 0.9409252869935117
+  },
+  {
+    "user_id": "a3b6f285-ca58-4daa-b1ee-f5060b75f8fd",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.19780782660992438,
+    "fluency_trend": 0.18176476585041387,
+    "engagement_score": 0.5136584620780458
+  },
+  {
+    "user_id": "96727a73-4aaf-474f-a1a0-8e778c5b2563",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.050062158314776256,
+    "fluency_trend": 0.13194848734774237,
+    "engagement_score": 0.15095959734554099
+  },
+  {
+    "user_id": "2c85e975-ff96-48ec-8cc1-1b398a1a9736",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.053162013909753975,
+    "fluency_trend": -0.006028861955249043,
+    "engagement_score": 0.5930276583623059
+  },
+  {
+    "user_id": "d669b305-bbe3-4210-9859-639a2a558b61",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.1526372263241528,
+    "fluency_trend": -0.0028757849004124314,
+    "engagement_score": 0.6952554715473784
+  },
+  {
+    "user_id": "84877b20-d038-44d6-9d49-323c5f8c8025",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage"
+    ],
+    "vocab_improvement": 0.16733878323087373,
+    "fluency_trend": -0.00363462936403626,
+    "engagement_score": 0.11620037262552685
+  },
+  {
+    "user_id": "24522099-4b80-4911-ac9e-75e3d3ee3d15",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": -0.0033624952465640123,
+    "fluency_trend": 0.05472194676343875,
+    "engagement_score": 0.7369666455928894
+  },
+  {
+    "user_id": "ff19bc45-c269-4ed5-9a67-a7ca082ad8f5",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.004605981337278214,
+    "fluency_trend": 0.19264888939078026,
+    "engagement_score": 0.021081138988679138
+  },
+  {
+    "user_id": "68136b44-4046-4e18-b945-ca85ffca10d1",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.17056069256592074,
+    "fluency_trend": -0.061707779008449315,
+    "engagement_score": 0.3998371230075546
+  },
+  {
+    "user_id": "8e69c008-2414-43a3-9d4d-191c32753f72",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.04760110425774425,
+    "fluency_trend": 0.036735419805863145,
+    "engagement_score": 0.1353160972246208
+  },
+  {
+    "user_id": "cf212359-9366-4746-9c77-20c2c19f7e70",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": -0.07256347432214351,
+    "fluency_trend": -0.09236865774225286,
+    "engagement_score": 0.07810514765991594
+  },
+  {
+    "user_id": "409853c4-abe8-49e9-b8ee-9472313482c1",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.12733894343690572,
+    "fluency_trend": -0.03989395206520848,
+    "engagement_score": 0.5324847378764862
+  },
+  {
+    "user_id": "0b9e9980-065a-47d6-a67f-70ce6c07084c",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage"
+    ],
+    "vocab_improvement": -0.010199883226545414,
+    "fluency_trend": -0.051723645460845215,
+    "engagement_score": 0.8444418154653388
+  },
+  {
+    "user_id": "96768793-360e-493f-a05e-9a862cb03ae5",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "tense_usage"
+    ],
+    "vocab_improvement": -0.017683662158756552,
+    "fluency_trend": 0.021828635220767584,
+    "engagement_score": 0.8401108317002952
+  },
+  {
+    "user_id": "9222cb65-f7ce-4c2e-a523-00a83081c05a",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.058108254235425066,
+    "fluency_trend": 0.19561505229025153,
+    "engagement_score": 0.38517121598502135
+  },
+  {
+    "user_id": "5b9e5dbd-7ff6-4cd2-951a-66bad4330bed",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.1838545862837119,
+    "fluency_trend": -0.09487922358462618,
+    "engagement_score": 0.49977593888786265
+  },
+  {
+    "user_id": "93133892-8596-4c92-aae4-bbd347f0ca17",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.1101685310031725,
+    "fluency_trend": -0.09769093012142593,
+    "engagement_score": 0.08758376662096223
+  },
+  {
+    "user_id": "6dd1d828-7d3c-4d0b-a171-0d5bf8e353a5",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.08469917507677224,
+    "fluency_trend": 0.19556752201439606,
+    "engagement_score": 0.9294360494114374
+  },
+  {
+    "user_id": "c7f55850-4010-431c-b06a-5ae61c953c54",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement",
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.17610666664136823,
+    "fluency_trend": 0.19364826828762113,
+    "engagement_score": 0.3426810009520316
+  },
+  {
+    "user_id": "af45a83c-5582-4552-8645-e80d247d8691",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "subject_verb_agreement"
+    ],
+    "vocab_improvement": 0.15751154219189792,
+    "fluency_trend": 0.15450456104448582,
+    "engagement_score": 0.8206718414090939
+  },
+  {
+    "user_id": "c8b67b98-a2d2-4faf-a8c5-0620a37f5888",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": 0.12214933279858228,
+    "fluency_trend": 0.17894951621232583,
+    "engagement_score": 0.9270754427896194
+  },
+  {
+    "user_id": "32576f28-e060-47d7-90dc-e1ebef2eb8b9",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.05392537446248494,
+    "fluency_trend": 0.13483207171194062,
+    "engagement_score": 0.31767647540940924
+  },
+  {
+    "user_id": "b26001ba-645d-4bab-8e27-a4f43c8630a0",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage",
+      "article_usage"
+    ],
+    "vocab_improvement": 0.03284483784802558,
+    "fluency_trend": 0.009535622863244386,
+    "engagement_score": 0.6373071087839675
+  },
+  {
+    "user_id": "2fc6eac7-8d1e-4f49-841f-8fe8bd17f0f1",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.0022395910447459144,
+    "fluency_trend": -0.015558386249951775,
+    "engagement_score": 0.7183465888345616
+  },
+  {
+    "user_id": "eae7a990-22c7-4c1e-ac00-66c65aa70299",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.0023138412785463497,
+    "fluency_trend": 0.05496208857577439,
+    "engagement_score": 0.4345952600256586
+  },
+  {
+    "user_id": "4fd6aae7-8f9b-4774-ba65-3a2b7c456f42",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage",
+      "tense_usage"
+    ],
+    "vocab_improvement": -0.08586341675198944,
+    "fluency_trend": 0.15222439067361923,
+    "engagement_score": 0.6102225351192291
+  },
+  {
+    "user_id": "608c8f4c-32fc-4b6e-8f98-9e3fa3ef4891",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "preposition_usage"
+    ],
+    "vocab_improvement": 0.11030291286975885,
+    "fluency_trend": 0.07135339302824723,
+    "engagement_score": 0.038117805348538036
+  },
+  {
+    "user_id": "e6523d35-7cba-4b44-8d4e-59001c997890",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "article_usage"
+    ],
+    "vocab_improvement": 0.1316391094277683,
+    "fluency_trend": 0.16185709987112454,
+    "engagement_score": 0.569796717830934
+  },
+  {
+    "user_id": "acaf38f3-f37d-40cb-90d8-777bf07e2345",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [],
+    "vocab_improvement": -0.021688988100863574,
+    "fluency_trend": -0.08660230406428432,
+    "engagement_score": 0.1282849243874905
+  },
+  {
+    "user_id": "1c4a0059-ea11-4ebd-ad34-bc159a24ddd1",
+    "timestamp": "2024-10-04T19:59:15.351897",
+    "recent_grammar_errors": [
+      "tense_usage"
+    ],
+    "vocab_improvement": 0.1802818343686168,
+    "fluency_trend": 0.1057953407345456,
+    "engagement_score": 0.7899533267751718
+  }
+]
